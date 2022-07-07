@@ -1,3 +1,11 @@
+Contact: mailto:security@grafana.com
+Expires: 2022-09-30T21:59:00.000Z
+Encryption: https://keyserver.ubuntu.com/pks/lookup?search=F9887BEA027A049FAE8E5CAAD1258932BE24C5CA&fingerprint=on&op=index
+Preferred-Languages: en
+Canonical: https://github.com/grafana/security/blob/main/security.txt
+Policy: https://github.com/grafana/security/blob/main/security.txt
+Hiring: https://grafana.com/about/careers/
+
 ## Reporting security issues
 
 The authorative copy of this text can always be found [in our Grafana Security repo](https://github.com/grafana/security/blob/main/security.txt).
