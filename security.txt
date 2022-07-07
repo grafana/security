@@ -8,15 +8,15 @@ Hiring: https://grafana.com/about/careers/
 
 ## Reporting security issues
 
-The authorative copy of this text can always be found [in our Grafana Security repo](https://github.com/grafana/security/blob/main/security.txt).
+The authorative copy of this text can always be found [in our Grafana Security repository](https://github.com/grafana/security/blob/main/security.txt).
 
 If you think you have found a security vulnerability, please send a report to security@grafana.com. This address can be used for all of Grafana Labs's open source and commercial products (including but not limited to Grafana, Grafana Cloud, Grafana Enterprise, and grafana.com). We can accept only vulnerability reports at this address.
 
 Please encrypt your message to us; please use our PGP key. The key fingerprint is:
 
-F988 7BEA 027A 049F AE8E 5CAA D125 8932 BE24 C5CA
+[F988 7BEA 027A 049F AE8E 5CAA D125 8932 BE24 C5CA](https://keyserver.ubuntu.com/pks/lookup?search=F9887BEA027A049FAE8E5CAAD1258932BE24C5CA&fingerprint=on&op=index)
 
-The key is available from keyserver.ubuntu.com.
+The key is [available from keyserver.ubuntu.com](https://keyserver.ubuntu.com/pks/lookup?search=F9887BEA027A049FAE8E5CAAD1258932BE24C5CA&fingerprint=on&op=index).
 
 Grafana Labs will send you a response indicating the next steps in handling your report. After the initial reply to your report, the security team will keep you informed of the progress towards a fix and full announcement. We will maintain contact and may ask for additional information or guidance.
 
