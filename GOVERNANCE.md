@@ -50,6 +50,7 @@ The current team members are:
 
 - Charline Voinot - [@chagrafana](https://github.com/chagrafana) ([Grafana Labs](https://grafana.com/))
 - Richard "RichiH" Hartmann - [@RichiH](https://github.com/richih) ([Grafana Labs](https://grafana.com/))
+- Thomas Owen - [@tomsioncatigraf](https://github.com/tomsioncatigraf) ([Grafana Labs](https://grafana.com/))
 
 Previous team members:
 
