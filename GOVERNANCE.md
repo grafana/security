@@ -49,8 +49,9 @@ In case a member leaves, the [offboarding](#offboarding) procedure is applied.
 The current team members are:
 
 - Charline Voinot - [@chagrafana](https://github.com/chagrafana) ([Grafana Labs](https://grafana.com/))
-- Richard "RichiH" Hartmann - [@RichiH](https://github.com/richih) ([Grafana Labs](https://grafana.com/))
 - Ethan Smith - [@SadFaceSmith](https://github.com/sadfacesmith) ([Grafana Labs](https://grafana.com/))
+- Richard "RichiH" Hartmann - [@RichiH](https://github.com/richih) ([Grafana Labs](https://grafana.com/))
+
 
 Previous team members:
 
