@@ -48,9 +48,9 @@ In case a member leaves, the [offboarding](#offboarding) procedure is applied.
 
 The current team members are:
 
+- Avery Schneider - [@averyatgrafana](https://github.com/averyatgrafana) ([Grafana Labs](https://grafana.com/))
 - Charline Voinot - [@chagrafana](https://github.com/chagrafana) ([Grafana Labs](https://grafana.com/))
 - Richard "RichiH" Hartmann - [@RichiH](https://github.com/richih) ([Grafana Labs](https://grafana.com/))
-- Avery Schneider - [@averyatgrafana](https://github.com/averyatgrafana) ([Grafana Labs](https://grafana.com/))
 
 Previous team members:
 
